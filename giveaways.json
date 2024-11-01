@@ -1,0 +1,47 @@
+{
+  "1299692446342709298": {
+    "prize": "mera bada lauda",
+    "winnerCount": 1,
+    "endTime": 1729941285570,
+    "channelId": "1297412994757562378",
+    "guildId": "1293771655415468063",
+    "ended": true,
+    "hostId": "1050353083479240755"
+  },
+  "1300087375266971688": {
+    "prize": "MERA BADA LAUDa",
+    "winnerCount": 1,
+    "endTime": 1730035447283,
+    "channelId": "1297412994757562378",
+    "guildId": "1293771655415468063",
+    "ended": true,
+    "hostId": "1050353083479240755"
+  },
+  "1300141019886522588": {
+    "prize": "FREE LOGO",
+    "winnerCount": 1,
+    "endTime": 1730048233789,
+    "channelId": "1299644531477839943",
+    "guildId": "1293771655415468063",
+    "ended": false,
+    "hostId": "1050353083479240755"
+  },
+  "1301833041769005076": {
+    "prize": "ehehvh",
+    "winnerCount": 1,
+    "endTime": 1730451643198,
+    "channelId": "1297413035308093480",
+    "guildId": "1293771655415468063",
+    "ended": true,
+    "hostId": "1050353083479240755"
+  },
+  "1301881315854913656": {
+    "prize": "vehivhe",
+    "winnerCount": 1,
+    "endTime": 1730463152735,
+    "channelId": "1300811995217395785",
+    "guildId": "1293771655415468063",
+    "ended": true,
+    "hostId": "1050353083479240755"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "1293771655415468063": {
+    "questions": [
+      "What is your age, Why do you want to join, Dd you have big dick"
+    ],
+    "active": true,
+    "timestamp": 1730208244123,
+    "Bot": {
+      "questions": [
+        "u gay?",
+        "U boy?",
+        "u code?"
+      ],
+      "active": true,
+      "timestamp": 1730208732232
+    },
+    "Idk": {
+      "questions": [
+        "(How old are you",
+        "What is your name",
+        "Will you suck my Dick)"
+      ],
+      "active": true,
+      "timestamp": 1730210498402
+    },
+    "IDk": {
+      "questions": [
+        "FUCK",
+        "U DUCK",
+        "U suck"
+      ],
+      "active": true,
+      "timestamp": 1730211021530
+    },
+    "Bot Developer": {
+      "questions": [
+        "What is your name",
+        "What is your age",
+        "Do you know coding"
+      ],
+      "active": true,
+      "timestamp": 1730211654559
+    },
+    "TEST": {
+      "questions": [
+        "HELLO",
+        "HI",
+        "HEllow"
+      ],
+      "active": true,
+      "timestamp": 1730385989946
+    },
+    "Designer": {
+      "questions": [
+        "HHEHE",
+        "HEEVHEH",
+        "KCEV"
+      ],
+      "active": true,
+      "timestamp": 1730462807357
+    }
+  }
+}
